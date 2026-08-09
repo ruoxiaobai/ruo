@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="UBsR7HCxrEtlUK4Y-VS-">
-    <mxGraphModel dx="1202" dy="1903" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#121212)" math="0" shadow="0">
+    <mxGraphModel dx="1460" dy="1986" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,7 +32,7 @@
           <mxGeometry height="388.64" width="984" x="275" y="13" as="geometry" />
         </mxCell>
         <mxCell id="Ujb8nibmWEdCrom5DhYI-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;spacingLeft=2;spacingRight=2;dashed=1;strokeColor=#CC6600;" value="" vertex="1">
-          <mxGeometry height="323" width="718" x="276" y="1169" as="geometry" />
+          <mxGeometry height="323" width="859.5" x="276" y="1169" as="geometry" />
         </mxCell>
         <mxCell id="Ujb8nibmWEdCrom5DhYI-137" edge="1" parent="1" source="Ujb8nibmWEdCrom5DhYI-8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;startSize=8;endSize=8;" target="Ujb8nibmWEdCrom5DhYI-17" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -126,7 +126,7 @@
         <mxCell id="Ujb8nibmWEdCrom5DhYI-79" edge="1" parent="1" source="Ujb8nibmWEdCrom5DhYI-78" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;startSize=8;endSize=8;spacingLeft=2;spacingRight=2;" target="Ujb8nibmWEdCrom5DhYI-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ujb8nibmWEdCrom5DhYI-82" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;textDirection=vertical-lr;fillColor=#d0cee2;strokeColor=#56517e;" value="待预测样本空间簇归属" vertex="1">
+        <mxCell id="Ujb8nibmWEdCrom5DhYI-82" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;textDirection=vertical-lr;fillColor=#d0cee2;strokeColor=#56517e;" value="待预测样本空间簇分配" vertex="1">
           <mxGeometry height="136.75" width="52" x="874" y="514.13" as="geometry" />
         </mxCell>
         <mxCell id="Ujb8nibmWEdCrom5DhYI-84" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d0cee2;strokeColor=#56517e;" value="使用局部模型预测" vertex="1">
@@ -175,7 +175,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ujb8nibmWEdCrom5DhYI-103" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fad7ac;strokeColor=#b46504;" value="精度评价&lt;div&gt;R²、RMSE、MAE、Bias&lt;/div&gt;" vertex="1">
-          <mxGeometry height="168.25" width="77" x="897" y="1238" as="geometry" />
+          <mxGeometry height="168.25" width="77" x="987" y="1238" as="geometry" />
         </mxCell>
         <mxCell id="Ujb8nibmWEdCrom5DhYI-165" edge="1" parent="1" source="Ujb8nibmWEdCrom5DhYI-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontSize=18;startSize=8;endSize=8;dashed=1;exitX=0.434;exitY=0.001;exitDx=0;exitDy=0;exitPerimeter=0;">
           <mxGeometry relative="1" as="geometry">
@@ -186,8 +186,8 @@
             <mxPoint x="484" y="1190.995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ujb8nibmWEdCrom5DhYI-104" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;fillColor=#fad7ac;strokeColor=#b46504;" value="多随机种子稳定性检验&lt;div&gt;均值 标准差 范围&lt;/div&gt;" vertex="1">
-          <mxGeometry height="121" width="166" x="706" y="1212" as="geometry" />
+        <mxCell id="Ujb8nibmWEdCrom5DhYI-104" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;fillColor=#fad7ac;strokeColor=#b46504;" value="多随机种子稳定性检验&lt;div&gt;均值、标准差、范围、配对差值&lt;/div&gt;" vertex="1">
+          <mxGeometry height="121" width="253" x="706" y="1212" as="geometry" />
         </mxCell>
         <mxCell id="Ujb8nibmWEdCrom5DhYI-187" edge="1" parent="1" source="Ujb8nibmWEdCrom5DhYI-109" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;">
           <mxGeometry relative="1" as="geometry">
