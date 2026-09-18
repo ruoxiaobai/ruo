@@ -464,7 +464,7 @@
         <mxCell id="zhj_qLurB6yHr2eFmYiT-54" edge="1" parent="1" source="13071Lr4N2ZptHEvPvJW-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="13071Lr4N2ZptHEvPvJW-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="13071Lr4N2ZptHEvPvJW-60" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Times New Roman;" value="Test Set:30%" vertex="1">
+        <mxCell id="13071Lr4N2ZptHEvPvJW-60" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Times New Roman;" value="Test Set: 30%" vertex="1">
           <mxGeometry height="30" width="141.69" x="212.655" y="1691" as="geometry" />
         </mxCell>
         <mxCell id="zhj_qLurB6yHr2eFmYiT-56" edge="1" parent="1" source="13071Lr4N2ZptHEvPvJW-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="13071Lr4N2ZptHEvPvJW-62">
@@ -482,7 +482,7 @@
         <mxCell id="zhj_qLurB6yHr2eFmYiT-50" edge="1" parent="1" source="13071Lr4N2ZptHEvPvJW-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="13071Lr4N2ZptHEvPvJW-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="13071Lr4N2ZptHEvPvJW-64" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Times New Roman;" value="Training Set :70%" vertex="1">
+        <mxCell id="13071Lr4N2ZptHEvPvJW-64" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Times New Roman;" value="Training Set : 70%" vertex="1">
           <mxGeometry height="30" width="146.38" x="399" y="1568" as="geometry" />
         </mxCell>
         <mxCell id="13071Lr4N2ZptHEvPvJW-65" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=18;fontFamily=Times New Roman;" value="Model Comparison and Configuration Selection" vertex="1">
